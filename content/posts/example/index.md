@@ -4,12 +4,10 @@ date = "2024-06-18"
 draft = false
 pinned = false
 tags = ["Bern", "Landwirtschaft"]
-image = "/img/default-image.jpg"
+image = "images.jpeg"
 description = "Eine Reportage über die Allgemeine Preisgestaltung und über die Wichtigkeit des Verstehens und Beziehung zum Verkäufer."
-footnotes = ""
+footnotes = "Bildquelle: Hauptbild: https://de.irna.ir/news/83577491/Irans-Agrarprodukte-im-Wert-von-315-Millionen-Dollar-in-Eurasische\n\nBildquelle: Bild-Beitrag 1: https://www.preispirat.ch/coop-aktionen/"
 +++
-# Die Preisgestaltung von Agrarprodukten im Raum Bern
-
 Die Preise jeglicher Produkte haben sich in den letzten Jahren deutlich erhöht. Diese Erhöhung stammt nicht nur von der Inflation, sondern auch durch vieler anderen Einflüsse. Die Einflüsse beinhalten Faktoren, die sich über die letzten Jahre verbessert, oder auch verschlechtert haben, und somit die Produktqualität und auch die Preise erhöht. Aber natürlich sind Preise kein natürlicher Wert, sondern werden von Supermarkt zu Supermarkt anders bestimmt.
 
 ## Die Allgemeine Preisgestaltung
@@ -32,6 +30,8 @@ Der Preisdruck der Händler ist jedoch nicht das einzige Problem, das Landwirtin
 Aus diesen Gründen sind staatliche Subventionen notwendig, da Bäuerinnen und Bauern sonst starke finanzielle Probleme hätten, was auch ein Problem für Supermärkte und die allgemeine Landwirtschaft wird. Deswegen ist das auf Erhalten von jeglichen Farmen notwendig.
 
 ## Die Preisstrategien von Supermärkten
+
+![](download.png)
 
 Supermärkte nutzen viele ähnliche Strategien wie Landwirte, haben aber gleichzeitig Zugriff auf mehr Strategien und Konzepte, da sie sich auf den Verkauf konzentrieren und sich nicht auch noch um die Produktion kümmern muss. 
 Supermärkte können die Strategien von Landwirten exakt übernehmen. Während Landwirte ihre Preise wegen erhöhter Nachfrage, besseren Zertifikaten und teureren Premiumprodukten oder Nischenmärkte erhöhen, können Supermärkte ihren Warenbestand ebenfalls teurer Gestalten oder die Produkte von den Landwirten teurer kaufen und noch teurer weiterverkaufen. Grundsätzlich müssen sich Supermärkte anpassen, da sie sich enorme Erhöhungen nur durch günstigen Verkauf vom Produzent leisten können, ohne schlechte Reaktionen zu bekommen.
