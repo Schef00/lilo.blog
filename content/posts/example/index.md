@@ -1,164 +1,56 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Die Preisgestaltung von Agrarprodukten im Raum Bern"
+date = "2024-06-18"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
+tags = ["Bern", "Landwirtschaft"]
 image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+description = "Eine Reportage über die Allgemeine Preisgestaltung und über die Wichtigkeit des Verstehens und Beziehung zum Verkäufer."
+footnotes = ""
 +++
+# Die Preisgestaltung von Agrarprodukten im Raum Bern
 
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
+Die Preise jeglicher Produkte haben sich in den letzten Jahren deutlich erhöht. Diese Erhöhung stammt nicht nur von der Inflation, sondern auch durch vieler anderen Einflüsse. Die Einflüsse beinhalten Faktoren, die sich über die letzten Jahre verbessert, oder auch verschlechtert haben, und somit die Produktqualität und auch die Preise erhöht. Aber natürlich sind Preise kein natürlicher Wert, sondern werden von Supermarkt zu Supermarkt anders bestimmt.
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+## Die Allgemeine Preisgestaltung
 
-# Überschrift 1
+Lieferanten und Grosshändler geben ihren Geschäftspartner immer eine Preisempfehlung, welche sie hauptsächlich durch die Herstellungskosten herleiten. Diese Unverbindliche Preisempfehlung dient zur Orientierung für die Preisgestaltung von dem schlussendlich verkaufenden Laden. Der verwendete Preis wird komplett vom Verkäufer bestimmt, welche weitere Faktoren einbeziehen, um den Verkauf rentabel und wettbewerbsfähig zu gestalten.
+Diese Faktoren beinhalten alles Mögliche, wobei die Produktionskosten, in welche die Rohstoffe, Arbeitskräfte und Betriebskosten einbezogen werden, die wichtigste ist, da die Produktionskosten, wie bereits erwähnt, eine Orientierung liefert. Andere Faktoren sind Zertifikate, wie zum Beispiel das Bio-Zertifikat, welches die Qualität und somit auch den Preis vom Produkt erhöht, die Jahreszeit, welche Import von gewissen Gütern erzwingt, oder auch Markttrends, um ein rentables und stabiles Geschäft zu führen.
+Die Ansehnlichkeit von dem Preis spielt keine grosse Rolle in dem Profit pro Produkt, sondern in der Menge an Verkäufen, weil es bewiesen und von jedem Geschäft benutzt wird, dass ein Produkt, das auch nur etwas unter einer vollen Zahl kostet, einem günstiger vorkommt. Genau deswegen kostet fast jedes Produkt, das man in einem Laden sieht, zum Beispiel nur CHF 9.95 kostet, statt CHF 10.00.
 
-So sieht die grösste Überschrift aus (H1).
+## Preisstrategien von Landwirten
 
-## Überschrift 2
+Landwirte*innen verwenden eine Vielzahl von Strategien an um unteranderem einen möglichst hohen Gewinn zu Erzielen. Eine gängige Strategie ist die Direktvermarktung. Indem die Landwirte direkt an Konsumenten verkaufen mittels Märkte, Hofläden und Abonnementssysteme. Durch diese Direktvermarktung können Landwirte/innen auch mit der frische vom Produkt werben, da es direkt von einem Landwirt verkauft wird. Viele Konsumenten wollen nur frische Agrarprodukte vom Landwirt, weswegen es auch viele Abonnementssysteme gibt, bei denen man sich verschiedenste Produkte von einem angebauten Stamm mieten kann, oder so zu sagen vorbezahlt um die Ware ohne Einfluss von Zwischenhändler zu erlangen. Solche Systeme nutzen Landwirte auch mit Zwischenhändler und Supermärkte, indem sie einen Vertrag mit verschiedenen Punkten ausmachen, damit der Landwirt mit Problemen oder schlechten Ernten nicht leer ausgehen muss.
+Premiumprodukte und Nischenmärkte führen wiederum auch zu höheren Preisen. Durch den Einsatz von diesen Premiumprodukten und Nischenmärkten können Landwirte diese durch biologischen Anbau, Seltene Sorten oder hergestellten Produkten höhere Preise verlangen und zusätzliche Qualität und Exklusivität an deren hoch erwartende Zielgruppe versprechen und wiederum Zertifikate für den Preis und versprechen einer guten Qualität nutzen.
+Wegen dem System von Angebot und Nachfrage passen sich Landwirte an die Jahreszeiten an. Während Erntesaison können Preise sinken, da es Waren im Überfluss gibt, doch wenn man diese Waren aufbewahrt und zu Saison verkauft wo das Angebot niedrig, doch die Nachfrage hoch ist, kann man einen höheren Preis verlangen und so den Gewinn weiter maximieren.
+Nicht nur Supermärkte, sondern auch Landwirte nutzen Rabatte, Preisaktionen und Treueprogramme, um Verkaufszahlen und Kundenbindung zu erhöhen. Solche Aktionen helfen auch der Kontrolle des Lagerbestands und helfen die Nachfrage nach Produkten, welche ausser Saison sind, zu Erhöhen.
 
-Dies ist die Überschrift 2 (H2).
+## Meinung Bauer*innen
 
-### Überschrift 3
+Mit der Preisgestaltung von Agrarprodukten haben Bäuerinnen und Bauern jedoch ernsthafte Probleme. Aufgrund steigender Produktionskosten für Saatgut, Düngemittel, Treibstoffe haben Sie mehr Produktionskosten. Hinzu kommt, dass Grosshändler und Supermärkte über eine Macht Position verfügen, da der Verkauf an diese Zwischenhändler zu den meisten Verkäufen und somit auch Rendite führt. Durch diese Macht Position können Zwischenhändler einen Preis verlangen, den die Zwischenhändler in eine sehr rentable Position bringt und den Bauern oder die Bäuerin in eine weniger vorteilhaften Position stellt.
+Der Preisdruck der Händler ist jedoch nicht das einzige Problem, das Landwirtinnen ertragen müssen. Auch immer strenger werdende staatliche Regulationen und Gesetzte führen zum Einsatz von den qualitativsten und nachhaltigsten Mittel, welche in der Regel auch immer teurer werden, was es schwer macht zu Erweitern und in neue Felder einzutreten.
+Aus diesen Gründen sind staatliche Subventionen notwendig, da Bäuerinnen und Bauern sonst starke finanzielle Probleme hätten, was auch ein Problem für Supermärkte und die allgemeine Landwirtschaft wird. Deswegen ist das auf Erhalten von jeglichen Farmen notwendig.
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
+## Die Preisstrategien von Supermärkten
 
-#### Überschrift 4
+Supermärkte nutzen viele ähnliche Strategien wie Landwirte, haben aber gleichzeitig Zugriff auf mehr Strategien und Konzepte, da sie sich auf den Verkauf konzentrieren und sich nicht auch noch um die Produktion kümmern muss. 
+Supermärkte können die Strategien von Landwirten exakt übernehmen. Während Landwirte ihre Preise wegen erhöhter Nachfrage, besseren Zertifikaten und teureren Premiumprodukten oder Nischenmärkte erhöhen, können Supermärkte ihren Warenbestand ebenfalls teurer Gestalten oder die Produkte von den Landwirten teurer kaufen und noch teurer weiterverkaufen. Grundsätzlich müssen sich Supermärkte anpassen, da sie sich enorme Erhöhungen nur durch günstigen Verkauf vom Produzent leisten können, ohne schlechte Reaktionen zu bekommen.
+Supermärkte können ebenfalls einen sehr grossen Einfluss auf ihre Preise spezifisch, mit verschieden Strategien wie Rabatte, Preisaktionen und Treuesysteme. Durch diese Strategien erreichen sie genau das gleiche wie Landwirte, um mehr Aufmerksamkeit und Verkäufe zu erreichen. Eine weiter Strategie, welche nicht regelmässig besprochen wird, jedoch für viele Beschwerden und Aufmerksamkeit gesorgt hat ist die Shrinkflation. Shrinkflation wird bezeichnet als eine kleinere Portionierung von Produkten, womit der Inhalt nach gleich viel aussieht und kostet, weniger jedoch verkauft wird, womit die Supermärkte einen höheren Gewinn erzielen, ohne die Preise zu verändern und aktiv für Aufmerksamkeit und vielleicht Beschwerden zu sorgen.
+Durch genaue Marktanalysen sind Supermärkte auch in der Lage verschiedene Anfragen oder Gebräuche zu antizipieren und somit im Vorhinein im Warenbestand aufstocken, um den Kunden zu liefern was sie Wollen und eine gesunde Beziehung mit ihnen zu führen. Um das Maximale aus diesen Strategien müssen sie so schnell wie möglich auf alle Veränderungen reagieren oder antizipieren, weshalb jeder Supermarkt ein grosses Team allein für die Marktanalyse und Preisgestaltung haben.
 
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
+## Heisst günstiger unbedingt schlechtere Qualität?
 
-## Weitere Textformatierungen
+Die Migros führen die Produkt-Linie «M-Budget» und Coop dafür «Prix Garantie», welche einen Fokus auf möglichst günstige Preise für jegliche Produkte verspricht. Aber warum kosten diese weniger? Gibt es Kompromisse mit der Qualität der Produkte? Auf einer Frage-und-Antwort Seite der Migros wird aufgeklärt, dass dies auf eine einfache Verpackungsdesign zurückzuführen ist. Zudem sind die Preise durch unterschiedliche Herkünfte der Rohstoffe zu erklären. Es werden auch billigere Zutaten benutzt, welche nicht die höchste Qualität haben, jedoch nicht schädigend sind, wie zum Beispiel künstliche Aromen oder Farbstoffe. Es gibt auch Kompromisse mit dem Aspekt der Nachhaltigkeit und dem Tierschutz.
+Manchmal kommt es sogar dazu, dass es gleiche Produkte sind, welche aber als M-budget dargestellt werden, um eine andere Zielgruppe anzusprechen und der Konkurrenz etwas entgegenzustellen, damit man allgemein mehr Kunden anlockt. Teils gibt es auch diskriminierende Aspekte, indem man sich blossgestellt fühlt oder wird, weil man eine “billige” Marke kaufen muss durch finanzielle Gründe. Allgemein ist es eine hilfreiche Idee, eine günstigere, aber dafür nicht so hochwertige variante anzubieten, aber diese auszunutzen, um das gleiche Produkt an eine Zielgruppe zu verkaufen, die ein neues und günstigeres Produkt erwartet ist nicht verständlichste Entscheidung.
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
+## Die Geheimhaltung der Preisgestaltung
 
-### Fett und Kursiv
+Zur Vorbereitung dieser Reportage probierten wir mehrere Male Interviews mit Supermärkten oder kleineren Läden zu führen, um genauere und bessere Informationen zu kriegen und wurden von jeder Firma und Laden abgelehnt, doch jede Person geht die Preisgestaltung etwas an, da die Kunden schlussendlich für die Produkte bezahlen, trotzdem wollen Firmen Informationen über ihre Preisgestaltung möglichst geheim halten, doch warum ist dies?
+Der Wettbewerb ist ein grosser Teil des Geschäfts, weswegen Geschäftsführer auch keine genaueren Informationen über ihre Preise geben wollen. Durch Veröffentlichung von Spezifikationen über die Preisgestaltung könnten Rivalen sich anpassen und somit sich ein Vorteil im Wettbewerb verschaffen und somit die Margen des offenstehenden Ladens unter Druck setzen.
+Geschäftspartner sehen diese Supermärkte als Kunden an, weswegen diese die Informationen über die Preisgestaltung ausnutzen könnte, um ein besseres Angebot von anderen fordern und den maximalen Gewinn rauszuholen. Diese Sehnsucht nach dem maximalen Gewinn herrscht oft auch bei dem Laden selbst, weshalb die Preisgestaltung auch wegen Gehältern und Erhöhung des Preises für purem Gewinn geheim gehalten wird, da sonst das Markenimage geschädigt wird. Das Markenimage in Kombination mit der Preisgestaltung ist besonders für Premiummarken wichtig, um keine negativen Reaktionen und Meinungen auszulösen, damit sie ihre hochangesehene und qualitative Position nicht verlieren und somit starke Änderung unterziehen müssen.
 
-Natürlich gibt es auch **fett** und _kursiv_.
+## Fazit und Wichtigkeit der Preisgestaltung
 
-### Links
-
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
-
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
-
-So sieht eine Liste aus:
-
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-### Nummerierte Liste
-
-Und so eine nummerierte Liste:
-
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-## Bilder
-
-Bilder werden mit dem `+`-Symbol eingefügt.
-
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
-
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
-
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
----
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
-`{{</*/lead*/>}}`
-
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-Dies eignet sich auch für längere Inhalte.
-
-![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Blog!
+Eine gut durchdachte Preisgestaltung von qualifizierten Individuen versichert ein faires und wirtschaftlich profitables Geschäft für Konsument, Verkäufer und Produzent. Indem Landwirte ein rentables Geschäft erzielen, kann die Agrarproduktion sich nur noch verbessern und für qualitativere und nachhaltigere Produkte sorgen.
+Eine transparente und nachvollziehbare Gestaltung, wäre ein nächster Schritt in eine bessere Beziehung zwischen Produzenten, Verkäufer und Käufer, jedoch hat sich herausgestellt, dass Supermärkte und Grosshändler noch nicht so Transparent wie erhofft sind, was aber Teils auch verständliche Gründe hinter sich hat, jedoch den Käufer in eine zu unsichere und unwissende Position bringt, welche sehr unangenehm wirken kann.
+In einer Zeit, in der die Produktionspreise nur noch steigt, ist eine gesunde Beziehung zwischen Produzenten, Käufer und Verkäufer sehr wichtig damit nicht ausser Hand gerät und alle immer noch profitieren und davon leben können.
