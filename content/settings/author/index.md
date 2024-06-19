@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "Luca Schefuss, Ilann Labbe"
 image = "/img/default-author.jpg"
 url = "/about/"
 +++
